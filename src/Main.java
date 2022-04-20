@@ -11,14 +11,5 @@ public class Main {
         System.out.println("Dziękuję. A ile masz lat? ");
         String age = scanner.nextLine();
         System.out.println("Dziękuję. Miło się rozmawiało :)");
-
-        public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in);
-            int age = scanner.nextInt();
-
-            if (age > 18) {
-
-            }
-            }
     }
 }
